@@ -1,1 +1,1 @@
-This should run as a game, but will have no images. You will need to add those yourself.
+NOTE: This does not have any image files, so you will have to replace the missing ones.
